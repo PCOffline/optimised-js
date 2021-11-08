@@ -1,7 +1,7 @@
 {
   "name": "optimised",
   "version": "0.0.1",
-  "description": "A dependecy-less collection of functions and utillities guaranteed to have the least performance impact.",
+  "description": "A dependency-less collection of functions and utilities guaranteed to have the least performance impact.",
   "main": "dist/index.js",
   "type": "module",
   "scripts": {
