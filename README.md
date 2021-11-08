@@ -1,6 +1,6 @@
 # optimised-js
 A dependency-less modern collection of functions and utilities guaranteed to have the least performance impact.
-This library is written in package, using the latest ECMAScripts features, transpiled to ES6 (ES2015).
+This library is written in TypeScript, using the latest ECMAScripts features, transpiled to ES6 (ES2015).
 
 # Usage
 
